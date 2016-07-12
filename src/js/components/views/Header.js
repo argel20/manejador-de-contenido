@@ -4,9 +4,10 @@ import $ from 'jquery';
 export default class Header extends React.Component {
   render() {
     return (
-     <div className="">
+         <div class="col-md-12 text-center">
+           TEXTOOOOOOOOOOOOO
+         </div>
 
-     </div>
     );
   }
 };

@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import layaout from "./components/layaout"
+import Layaout from "./components/Layaout"
 
 const app = document.getElementById('app');
-ReactDOM.render(<layaout/>,  app);
+ReactDOM.render(<Layaout/>,  app);

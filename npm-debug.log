@@ -11,10 +11,10 @@
 4 verbose stack     at checkBinReferences_ (/home/argel/.nvm/versions/node/v4.4.7/lib/node_modules/npm/node_modules/read-package-json/read-json.js:320:45)
 4 verbose stack     at final (/home/argel/.nvm/versions/node/v4.4.7/lib/node_modules/npm/node_modules/read-package-json/read-json.js:354:3)
 4 verbose stack     at then (/home/argel/.nvm/versions/node/v4.4.7/lib/node_modules/npm/node_modules/read-package-json/read-json.js:124:5)
-4 verbose stack     at ReadFileContext.<anonymous> (/home/argel/.nvm/versions/node/v4.4.7/lib/node_modules/npm/node_modules/read-package-json/read-json.js:295:20)
-4 verbose stack     at ReadFileContext.callback (/home/argel/.nvm/versions/node/v4.4.7/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:78:16)
-4 verbose stack     at FSReqWrap.readFileAfterOpen [as oncomplete] (fs.js:303:13)
-5 verbose cwd /home/argel/react/reto-8-7-16
+4 verbose stack     at /home/argel/.nvm/versions/node/v4.4.7/lib/node_modules/npm/node_modules/read-package-json/read-json.js:311:12
+4 verbose stack     at /home/argel/.nvm/versions/node/v4.4.7/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:78:16
+4 verbose stack     at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:380:3)
+5 verbose cwd /home/argel/proyecto_grupalaam/react-group
 6 error Linux 3.19.0-64-generic
 7 error argv "/home/argel/.nvm/versions/node/v4.4.7/bin/node" "/home/argel/.nvm/versions/node/v4.4.7/bin/npm" "start"
 8 error node v4.4.7
